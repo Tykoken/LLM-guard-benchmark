@@ -1,0 +1,6 @@
+﻿condition,n_runs,item_leak_rate,sensitive_item_leak_rate,privacy_recall,privacy_precision,completion_rate,partial_rate,false_refusal_rate,content_decline_rate,latency_p50_ms,latency_p95_ms
+条件,运行次数,条目泄漏率,敏感项泄漏率,隐私召回率,隐私精确率,任务完成率,部分完成率,误拒率,消息内拒答率,延迟P50(ms),延迟P95(ms)
+C0,493,48.7%,39.0%,61.0%,73.3%,99.4%,19.3%,0.0%,1.2%,1483,2609
+C1,493,17.6%,11.2%,88.8%,72.6%,99.2%,26.4%,0.2%,1.2%,1327,2176
+C2,493,48.5%,37.7%,62.3%,73.3%,99.4%,20.7%,0.0%,1.6%,1415,2385
+C3,493,20.3%,14.9%,85.1%,75.8%,97.6%,21.3%,0.0%,1.6%,2546,4175
